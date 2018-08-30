@@ -1,0 +1,4 @@
+package siro.revision.abstractFactory.intgrident;
+
+public class ISauce_Soy implements ISauce {
+}
